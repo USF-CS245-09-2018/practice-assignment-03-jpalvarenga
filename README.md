@@ -2,14 +2,14 @@
 
 Running Time
 
-Find Min Recursively
+# Find Min Recursively
 
 The running time is O(n).
 
 The function calls it self no more than n times to find min.
 
 
-Find Min Recursively
+# Find Min Recursively
 
 The running time is O(n)
 
