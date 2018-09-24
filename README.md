@@ -9,7 +9,7 @@ The running time is O(n).
 The function calls it self no more than n times to find min.
 
 
-# Find Min Recursively
+# Find Min Iteratively
 
 The running time is O(n)
 
